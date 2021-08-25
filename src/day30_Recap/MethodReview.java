@@ -1,6 +1,6 @@
 package day30_Recap;
 
-import Utilities.StringUtility;
+import utilities.StringUtility;
 
 public class MethodReview {
 

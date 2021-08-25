@@ -1,6 +1,6 @@
 package day33_Methods;
 
-import Utilities.ArraysUtility;
+import utilities.ArraysUtility;
 
 import java.util.Arrays;
 

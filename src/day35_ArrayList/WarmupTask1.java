@@ -15,7 +15,7 @@ public class WarmupTask1 {// Array data structure(size) is fixed. You cannot cha
         System.out.println(Arrays.toString(dates));
 
         for (LocalDate each : dates) {
-            System.out.println(each.format(DateTimeFormatter.ofPattern("MMM/dd/YY, EE")));
+            System.out.println(each.format(DateTimeFormatter.ofPattern("MMMM/dd/YYYY, EEEE")));
 
         }
 

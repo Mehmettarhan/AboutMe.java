@@ -10,19 +10,19 @@ public class ArrayListMethod {
     public static void main(String[] args) {
 
         ArrayList<String> groceryList = new ArrayList<>();
-        groceryList.add("eggs");
-        groceryList.add("milk");
-        groceryList.add("water");
-        groceryList.add("bread");
+        groceryList.add("eggs"); // 0
+        groceryList.add("milk"); // 1
+        groceryList.add("water"); // 2
+        groceryList.add("bread"); // 3
 
         System.out.println(groceryList);
 
         groceryList.set(0, "apple"); // set(index, Object): replaces the old element at given index with a new element
-        groceryList.set(3, "soda");
+        groceryList.set(3, "soda"); // replace bread with soda
         System.out.println(groceryList);
         System.out.println("----------------------------------------");
 
-        groceryList.remove(1);
+        groceryList.remove(1); // will remove milk from the array
         groceryList.add(2, "orange");
         System.out.println(groceryList);
 

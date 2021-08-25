@@ -16,14 +16,14 @@ public class ArrayListIntro {
         numbers.add(30); //2,
         numbers.add(40); //3,
         numbers.add(50); //4,
-        numbers.add(1, 25);
+        numbers.add(3, 25);
         System.out.println(numbers);
         System.out.println(numbers.get(2));
 
         System.out.println(numbers.size());
 
         for (int i = 0; i < numbers.size() ; i++) {
-            System.out.println(numbers.get(i));
+            System.out.print(numbers.get(i));
 
         }
 

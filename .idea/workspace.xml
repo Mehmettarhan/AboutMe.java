@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f3bc188-62cd-48f6-a4a7-55e0b6af3d8e" name="Default Changelist" comment="day35" />
+    <list default="true" id="1f3bc188-62cd-48f6-a4a7-55e0b6af3d8e" name="Default Changelist" comment="Commiting everything">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograming_B23/day35_ArrayList/ArrayListIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograming_B23/day35_ArrayList/ArrayListIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaPrograming_B23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaPrograming_B23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaPrograming_B23/day35_ArrayList/ArrayListIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaPrograming_B23/day35_ArrayList/ArrayListIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/ArrayListMethod.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +55,25 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.WhileLoop">
-    <configuration name="WarmUpTask0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_Methods.WarmUpTask0" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DogPark">
+    <configuration name="CombineAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombineAll" />
+      <module name="JavaPrograming_B23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombineArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replIt_Shopping.CombineArrays" />
       <module name="JavaPrograming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33_Methods.*" />
+          <option name="PATTERN" value="replIt_Shopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,51 +81,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUpTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_MethodOverloading.WarmUpTask2" />
+    <configuration name="DogPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_CustomClass.DogPark" />
       <module name="JavaPrograming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_MethodOverloading.*" />
+          <option name="PATTERN" value="day37_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatAll" />
+      <module name="JavaPrograming_B23" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WarmupTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Recap.WarmupTasks" />
+      <option name="MAIN_CLASS_NAME" value="day37_CustomClass.WarmupTasks" />
       <module name="JavaPrograming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Recap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WarmupTasks2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Recap.WarmupTasks2" />
-      <module name="JavaPrograming_B23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day31_Recap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_IfStatements.WhileLoop" />
-      <module name="JavaPrograming_B23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day09_IfStatements.*" />
+          <option name="PATTERN" value="day37_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.WarmUpTask0" />
-        <item itemvalue="Application.WarmUpTask2" />
-        <item itemvalue="Application.WarmupTasks2" />
+        <item itemvalue="Application.DogPark" />
         <item itemvalue="Application.WarmupTasks" />
+        <item itemvalue="Application.CombineArrays" />
+        <item itemvalue="Application.CombineAll" />
+        <item itemvalue="Application.RepeatAll" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626984120442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commiting everything">
+      <created>1627319475496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627319475496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,12 +167,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="added some new info" />
     <MESSAGE value="requirements for a strong password" />
     <MESSAGE value="day35" />
-    <option name="LAST_COMMIT_MESSAGE" value="day35" />
+    <MESSAGE value="Commiting everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting everything" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
